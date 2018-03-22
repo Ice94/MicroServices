@@ -1,0 +1,12 @@
+[submodule "conference"]
+	path = conference
+	url = ./conference/.git/
+[submodule "blog"]
+	path = blog
+	url = ./blog/.git
+[submodule "gateway"]
+	path = gateway
+	url = ./gateway/.git
+[submodule "registry"]
+	path = registry
+	url = ./registry/.git
